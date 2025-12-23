@@ -1,18 +1,18 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Dileep+Singh+%F0%9F%91%8B;Passionate+Developer;AI+%26+ML+Enthusiast;Full-Stack+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Saif+(Safee);Ethical+Hacker+%26+CS+Student;Cyber+Security+Enthusiast;Future+Cyber+Analyst" alt="Typing SVG" />
 
   <p>
-    <em>Building innovative solutions & solving complex problems with AI.</em>
+    <em>Building secure solutions & exploring the depths of Cyber Security.</em>
   </p>
 
-  <a href="https://linkedin.com/in/dileepsingh51">
+  <a href="https://linkedin.com/in/your-linkedin-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/dileepsingh51">
+  <a href="https://twitter.com/your-twitter-profile">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:dileepsingh51@example.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
@@ -20,10 +20,20 @@
 
 <br />
 
+<div align="center">
+  <h3>👨‍💻 About Me</h3>
+  <p>
+    Hi, I am <strong> Dileep Singh Rajput </strong>,I am from <strong>Islamabad</strong>. I am currently a <strong>BS CS Student at QAU Islamabad</strong>,<br>
+    and I am deeply inspired to become a <strong>Cyber Analyst</strong>.
+  </p>
+</div>
+
+<br />
+
 ## 🚀 What I'm Up To
-* 🤖 Exploring **Cutting-edge AI** technologies and their real-world applications.
-* 💻 Developing **Full-Stack Web Applications** using modern frameworks.
-* 🌱 Continuously learning new tools and contributing to **Open-Source**.
+* 🕵️‍♂️ Exploring **Ethical Hacking** tools and Network Security.
+* 💻 Developing **C++ Projects** and understanding low-level computing.
+* 🌱 Continuously learning **Kali Linux** and contributing to Open-Source.
 
 ---
 
@@ -53,18 +63,18 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DileepSingh51&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DileepSingh51&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaifsGame&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifsGame&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DileepSingh51&theme=radical&hide_border=true" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=SaifsGame&theme=radical&hide_border=true" alt="streak graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DileepSingh51&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SaifsGame&style=flat-square&color=20C20E" alt="Profile Views" />
 </div>
