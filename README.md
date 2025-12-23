@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Saif+(Safee);Ethical+Hacker+%26+CS+Student;Cyber+Security+Enthusiast;Future+Cyber+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Dileep+(Dileep-Singh);Ethical+Hacker+%26+CS+Student;Cyber+Security+Enthusiast;Future+Cyber+Analyst" alt="Typing SVG" />
 
   <p>
     <em>Building secure solutions & exploring the depths of Cyber Security.</em>
