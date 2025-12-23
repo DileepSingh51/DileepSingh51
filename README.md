@@ -63,18 +63,18 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaifsGame&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifsGame&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DileepSingh51&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DileepSingh51&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SaifsGame&theme=radical&hide_border=true" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=DileepSingh51&theme=radical&hide_border=true" alt="streak graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaifsGame&style=flat-square&color=20C20E" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DileepSingh51&style=flat-square&color=blue" alt="Profile Views" />
 </div>
