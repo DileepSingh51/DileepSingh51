@@ -23,7 +23,7 @@
 <div align="center">
   <h3>👨‍💻 About Me</h3>
   <p>
-    Hi, I am <strong> Dileep Singh Rajput </strong>,I am from <strong>Islamabad</strong>. I am currently a <strong>BS CS Student at QAU Islamabad</strong>,<br>
+    Hi, I am <strong> Dileep Singh Rajput </strong>,I am from <strong>Tharparkar</strong>. I am currently a <strong>BS CS Student at QAU Islamabad</strong>,<br>
     and I am deeply inspired to become a <strong>Cyber Analyst</strong>.
   </p>
 </div>
