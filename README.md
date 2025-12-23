@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Dileep Singh 👋
 
-<!--
-**DileepSingh51/DileepSingh51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with a keen interest in AI, machine learning, and full-stack development. I love solving complex problems and building innovative solutions that make a difference.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Up To
+- Exploring cutting-edge AI technologies and their applications in real-world scenarios.
+- Developing full-stack web applications using modern frameworks.
+- Continuously learning new tools and contributing to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Languages:** Python, JavaScript, Java
+- **Frameworks:** React, Node.js, TensorFlow
+- **Databases:** MongoDB, PostgreSQL
+- **Tools:** Git, Docker, AWS
+
+## 📈 GitHub Stats
+![Dileep's GitHub stats](https://github-readme-stats.vercel.app/api?username=DileepSingh51&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/dileepsingh51) (if applicable)
+- [Twitter](https://twitter.com/dileepsingh51) (if applicable)
+- Email: dileepsingh51@example.com
+
+Feel free to explore my repositories and reach out for collaborations!
