@@ -6,16 +6,6 @@
     <em>Building secure solutions & exploring the depths of Cyber Security.</em>
   </p>
 
-  <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-twitter-profile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
 </div>
 
 <br />
@@ -23,9 +13,24 @@
 <div align="center">
   <h3>👨‍💻 About Me</h3>
   <p>
-    Hi, I am <strong> Dileep Singh Rajput </strong>,I am from <strong>Tharparkar</strong>. I am currently a <strong>BS CS Student at QAU Islamabad</strong>,<br>
+    Hi, I am <strong> Dileep Singh Rajput </strong>, I am from <strong>Tharparkar</strong>. I am currently a <strong>BS CS Student at QAU Islamabad</strong>,<br>
     and I am deeply inspired to become a <strong>Cyber Analyst</strong>.
   </p>
+</div>
+
+<div align="center">
+  <h3>🤝 Connect with Me</h3>
+  
+  <a href="https://github.com/DileepSingh51" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/dileep-singh-rajput-82baa1284" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dileepsinghdgs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
 </div>
 
 <br />
@@ -40,6 +45,13 @@
 ## 🛠️ Technologies & Tools
 
 <div align="center">
+
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E9430F?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+  <br />
 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -59,6 +71,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 </div>
+
+<br />
 
 ## 📈 GitHub Stats
 
